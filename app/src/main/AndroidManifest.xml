@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.debaleen.project2">
+
+    <uses-sdk tools:overrideLibrary="com.shashank.sony.fancytoastlib, id.pahlevikun.droidcrypt" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/car"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/car"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login" />
+        <activity
+            android:name=".WelcomeSplash"
+            android:theme="@style/WelcomeScrenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Registration" />
+        <activity android:name=".AdminRegistration" />
+        <activity
+            android:name=".Profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProfileAdmin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".InsertNewCar" />
+        <activity android:name=".ViewVehicles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Vieww"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Delete"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Deletee"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,64 @@
+<resources>
+    <!--APP Name-->
+    <string name="app_name">Project2</string>
+
+    <!--common-->
+    <string name="backButtonText">Back</string>
+    <string name="noResult">No result found!!</string>
+
+    <!--login Page-->
+    <string name="userNameFieldHint">Please enter your User Name</string>
+    <string name="passwordFieldHint">Please enter your Password</string>
+    <string name="newUserQ">New User ?</string>
+    <string name="alreadyHaveAnAccountQ">Already have an account ?</string>
+    <string name="loginButtonText">Login</string>
+
+    <!--Registration Page-->
+    <string name="nameFieldHint">Please enter your Name</string>
+    <string name="emailFieldHint">Please enter your Email</string>
+    <string name="mobileFieldHint">Please enter your mobile number</string>
+    <string name="registerPasswordFieldHint">Please enter your Password</string>
+    <string name="registerPasswordConfirmFieldHint">Please re-enter your Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="notDisclosed">Prefer not to say</string>
+    <string name="registerButtonText">Register</string>
+
+    <!--Profile Toolbar-->
+    <string name="toolbarTitle">Welcome</string>
+
+    <!--Profile Admin-->
+    <string name="vehicleMenu">Vehicle\'s menu</string>
+    <string name="usersMenu">User\'s menu</string>
+
+    <!--VehicleView-->
+    <string name="header"><h3>ID-- Vehicle Number , Owner Name</h3></string>
+    <string name="searchQueryHint">Search by vehicle number or owner name</string>
+    <string name="searchBar">Search</string>
+
+    <!--Insert new car && View && Delete && Edit-->
+    <string name="carNumber">Vehicle Number</string>
+    <string name="ownerName">Owner Name</string>
+    <string name="type">Type</string>
+    <string name="regDate">Registration Date</string>
+    <string name="insurance">Insurance status</string>
+    <string name="pollution">Pollution status</string>
+
+    <string name="carNumberHint">Enter car number</string>
+    <string name="ownerNameHint">Enter owner name</string>
+    <string name="chooseRegDate">Choose Registration Date</string>
+    <string name="submitButtonText">Submit</string>
+
+    <!--Delete-->
+    <string name="areYouSure">Are you sure?</string>
+    <string name="yesButtonText">Yes</string>
+
+    <!--Edit-->
+    <string name="updateButtonText">Update</string>
+
+    <!--Profile-->
+    <string name="searchButton">Search</string>
+
+
+
+</resources>
