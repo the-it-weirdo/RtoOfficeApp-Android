@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git_resources/car.png" height="200"/>
+  <img src="git_resources/car.png" height="100"/>
 </p>
 
 # RtoOfficeApp-Android
@@ -37,7 +37,7 @@ An admin user can also add another admin user.
 *It uses locally stored SQLite Database.*
 
 ## Built With 🛠
-- [Java]https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) - A general-purpose, concurrent, strongly typed, class-based object-oriented language.
+- [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) - A general-purpose, concurrent, strongly typed, class-based object-oriented language.
 - [SQLite Database for Android](https://developer.android.com/reference/android/database/sqlite/package-summary) - For storing data
 - [FancyToast-Android](https://github.com/Shashank02051997/FancyToast-Android) - A library that takes the standard Android toast to the next level with a variety of styling options.
 - [DroidCrypt](https://github.com/pahlevikun/DroidCrypt) - A simple Android Library. Very easy for use this Android library for performing encryption to String with AES encryption, it can used for save to SharedPreferences too.
@@ -66,4 +66,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-`
+```
